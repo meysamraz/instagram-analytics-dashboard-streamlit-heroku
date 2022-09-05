@@ -1,0 +1,8 @@
+numpy
+pandas
+plotly
+streamlit
+matplotlib
+schedule
+psycopg2
+SQLAlchemy
