@@ -1,9 +1,10 @@
-# Instagram Dynamic analysis dashboard
+# Instagram Dynamic Dashboard for Promotion and Customer Acquisition Analysis
 
-Instagram is one of the most popular social media platforms with over 1 billion monthly active users which means it’s a great marketing channel to use for promoting your brand. That's why I tried to make a dashboard with which I can analyze the performance of the Instagram accounts That i want 
+Instagram stands as a cornerstone in the realm of social media, boasting over 1 billion monthly active users. Harnessing its potential as a powerful marketing channel, I've developed a comprehensive dashboard for analyzing the performance of targeted Instagram accounts. Dive into insightful metrics and optimize your brand promotion strategies with ease.
 
+This project is a part of my portfolio, showcasing my skills. The main code isn't public, but I'm open to collaboration! Interested? Email me at mr.raz2002@gmail.com
 
-Watch Demo here : 
+Explore the Demo Here (Note: Heroku's free hosting service may experience shutdowns, rendering the dashboard temporarily unavailable):
 https://instagramanalytic.herokuapp.com/
 
 ![alt Text](https://github.com/meysamraz/instagram-analytics-dashboard-streamlit/blob/master/src/demo.gif)
